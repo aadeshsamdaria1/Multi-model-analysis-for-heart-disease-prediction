@@ -16,6 +16,7 @@ Dataset source: https://www.kaggle.com/datasets.
   
 ## Output :  
   The SVM and the Decision tree classifier have the same high accuracy and the KNN classifier has the least accuracy.  
+  A greater area under the curve would imply that the Decision tree model has lower chance of prediciting false positives.
   
   <img src="output_graph.png">
 
