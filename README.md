@@ -11,7 +11,8 @@ KNN classifier :-  number of neighbors = 8
 Gaussian NB :- default
 
 ## Dataset:  
-	The dataset was obtained from https://www.kaggle.com/datasets. 11 predictor variables like RestingBP, Cholesterol, MaxHR etc were used to predict if an individual is prone to a heart disease.
+Dataset source: https://www.kaggle.com/datasets. 
+11 predictor variables like RestingBP, Cholesterol, MaxHR etc were used to predict if an individual is prone to a heart disease.
   
 ## Output :  
   The SVM and the Decision tree classifier have the same high accuracy and the KNN classifier has the least accuracy.  
